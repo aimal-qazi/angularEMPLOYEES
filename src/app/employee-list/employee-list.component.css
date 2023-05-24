@@ -1,0 +1,28 @@
+.main {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main1 {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table {
+  border-collapse: collapse;
+}
+table tr {
+  border: 1px solid #000;
+}
+table tr th {
+  border: 1px solid #000;
+  padding: 10px 20px;
+}
+table tr td {
+  border: 1px solid #000;
+  padding: 10px 20px;
+}

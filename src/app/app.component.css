@@ -4,9 +4,19 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 header a {
   font-size: 28px;
   text-decoration: none;
   color: #000;
   font-weight: 600;
+  padding: 10px 40px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #444;
+  color: #fff;
 }
